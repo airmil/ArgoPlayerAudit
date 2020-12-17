@@ -15,7 +15,7 @@ public class PocBot {
 	/**
 	 * token
 	 */
-	private static final String TOKEN = "NzcyNjA4NDIzNjg5OTc3ODY2.X59Jqg.lqZJ2G-VaGCpQfxo3Jm6WYepz3s"; //$NON-NLS-1$
+	private static final String TOKEN = ""; //$NON-NLS-1$
 
 	/**
 	 * @param args
